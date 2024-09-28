@@ -157,7 +157,7 @@ On the sidebar, you have the option to upload images using Dropbox for object de
 
 [Click here to watch the demo video](https://drive.google.com/file/d/1vFZmyOsXrNctGd_ZcQSdxg2KzkAT8-3S/view?usp=drive_link)
 
---
+---
 
 ## References
 
