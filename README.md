@@ -153,6 +153,12 @@ On the sidebar, you have the option to upload images using Dropbox for object de
 ![Sidebar](https://github.com/LavishVaishnav/VISONARYNAVIGATOR/blob/main/sidebar.png)
 
 ---
+## Working Demo
+
+[Click here to watch the demo video](https://drive.google.com/file/d/1vFZmyOsXrNctGd_ZcQSdxg2KzkAT8-3S/view?usp=drive_link)
+
+--
+
 ## References
 
 1. **Md Zahidul Hassan, et al.** "Real-Time Computer Vision Based Autonomous Navigation System for Assisting Visually Impaired People using Machine Learning"
