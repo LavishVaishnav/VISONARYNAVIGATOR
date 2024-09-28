@@ -139,6 +139,20 @@ Visionary Navigator holds significant potential for further development:
 
 ---
 
+
+## Visionary Navigator - User Interface
+
+### Main Page
+This is the main page of the **Visionary Navigator** application. Here, users can either upload an image from their device or use the real-time object detection feature via their webcam.
+
+![Main Page](https://github.com/LavishVaishnav/VISONARYNAVIGATOR/blob/main/MainPage.png)
+
+### Sidebar with Dropbox Upload & Real-Time Detection
+On the sidebar, you have the option to upload images using Dropbox for object detection. Alternatively, you can switch to the **real-time webcam mode** for live object detection.
+
+![Sidebar](https://github.com/LavishVaishnav/VISONARYNAVIGATOR/blob/main/sidebar.png)
+
+---
 ## References
 
 1. **Md Zahidul Hassan, et al.** "Real-Time Computer Vision Based Autonomous Navigation System for Assisting Visually Impaired People using Machine Learning"
@@ -147,11 +161,7 @@ Visionary Navigator holds significant potential for further development:
 4. **Heba Najm, et al.** "Assisting Blind People Using Object Detection with Vocal Feedback"
 
 ---
-
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
-
-This README provides all the essential details about your project and makes it easy for others to understand and contribute. Let me know if you need further adjustments!
